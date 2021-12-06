@@ -1,4 +1,7 @@
 # Freeecker
+![ezgif-2-0700c609e9ea](https://user-images.githubusercontent.com/17329726/144843228-f246a73e-0ca9-49b2-8e8e-188e1d701c9b.gif)
+
+![ezgif-2-6581c253d303](https://user-images.githubusercontent.com/17329726/144843273-66780a95-3a4e-4855-8e1e-244e1134e588.gif)
 
 ## About freeecker
 Freee会計APIと連携して、
